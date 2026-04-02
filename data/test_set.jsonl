@@ -1,0 +1,3 @@
+{"id":"000","text":"This is a test question. What is the answer?","label-choices":["Yes","No"],"label":"Yes"}
+{"id":"001","text":"Another test question. What is the answer?","label-choices":["True","False"],"label":"False"}
+{"id":"002","text":"Yet another test question. What is the answer?","label-choices":["Option A","Option B"],"label":"Option A"}
